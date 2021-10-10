@@ -59,6 +59,9 @@ html {
 }
 
 .gallery-page-container {
-    background-color: black;
+  height: auto;
+  min-height: 100vh;
+  background-color: rgb(163, 114, 209);
+  justify-content: center;
+  align-items: center;
 }
-
